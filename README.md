@@ -14,3 +14,10 @@ organización.
 5. Proponer recomendaciones concretas basadas en los resultados del análisis para mejorar
 la eficiencia operativa, reducir costos, optimizar los recursos y respaldar la toma de
 decisiones estratégicas.
+
+Graficos
+  a. Top 5 de costos de venta más elevados
+  b. Top 10 de gastos Operativos
+  c. 5 meses son en los que más se vendieron.
+  d. 2 meses son en los que menos se vendieron.
+Tabla de Estado de resultados.
